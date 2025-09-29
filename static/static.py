@@ -1,4 +1,13 @@
-# static.py
+HTML = """
+It's a beautiful day
+Sky falls, you feel like
+It's a beautiful day
+Don't let it get away
+You're on the road
+But you've got no destination
+You're in the mud
+In the maze of her imagination
+"""
 
 HTML = """
 <!DOCTYPE html>
